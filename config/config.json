@@ -2,21 +2,21 @@
 	"UI":	{
 		"Window":	{
 			"main":	{
-				"wndstat":	0,
-				"posClient":	[146, 162],
-				"sizeClient":	[984, 701]
+				"wndstat":	2,
+				"posClient":	[0, 105],
+				"sizeClient":	[1200, 1815]
 			},
 			"frontAndBack":	{
-				"mag":	1,
+				"mag":	4,
 				"front":	{
 					"wndstat":	0,
-					"posClient":	[155, 193],
-					"sizeClient":	[475, 638]
+					"posClient":	[-7, 176],
+					"sizeClient":	[981, 767]
 				},
 				"back":	{
 					"wndstat":	0,
-					"posClient":	[646, 193],
-					"sizeClient":	[475, 638]
+					"posClient":	[-110, 1025],
+					"sizeClient":	[1140, 822]
 				}
 			}
 		}

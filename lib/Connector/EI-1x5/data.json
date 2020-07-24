@@ -1,0 +1,7 @@
+{
+	"explanation":	"EIコネクタ。5ピン",
+	"numLeads":	5,
+	"rxLeads":	[1, 2, 3, 4],
+	"ryLeads":	[0, 0, 0, 0],
+	"posLeadInImg":	[8, 7]
+}

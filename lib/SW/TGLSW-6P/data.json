@@ -1,0 +1,7 @@
+{
+	"explanation":	"トグルスイッチ6P 2回路二接点",
+	"numLeads":	6,
+	"rxLeads":	[0, 0, 2, 2, 2],
+	"ryLeads":	[1, 2, 2, 1, 0],
+	"posLeadInImg":	[4, 4]
+}
